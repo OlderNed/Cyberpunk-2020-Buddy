@@ -3,7 +3,7 @@
 
 import tkinter as tk
 from tkinter import ttk
-import random as random
+import random
 
 MASTER = tk.Tk()
 # Creates window
